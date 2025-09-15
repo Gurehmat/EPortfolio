@@ -12,4 +12,5 @@ Project highlights including HackHerhfest website
 
 Real-world development and leadership experiences
 
-🔗 Live Site: https://gurehmat.github.io/eportfolio
+🔗 Live Site: https://gurehmat.github.io/EPortfolio
+
